@@ -1,7 +1,6 @@
 # Loan-Prediction-with-deployment
 Predict if you are eligible to take a loan by giving few details
 
-https://loan-eligibility-prediction.herokuapp.com/
 
 # Data Description
 Loan_ID	:- Unique Loan ID
